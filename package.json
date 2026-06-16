@@ -1,0 +1,40 @@
+{
+  "name": "payload-plugin-reviews",
+  "version": "1.0.0",
+  "description": "A Payload CMS v3 plugin to add customer reviews with moderation, star ratings, and Google rich snippets support.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "payload",
+    "payload-plugin",
+    "payload-cms",
+    "reviews",
+    "ratings",
+    "ecommerce",
+    "cms"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "payload": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "payload": "^3.0.0"
+  }
+}
