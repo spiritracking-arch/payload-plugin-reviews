@@ -1,6 +1,6 @@
 # payload-plugin-reviews
 
-A [Payload CMS v3](https://payloadcms.com) plugin to add customer reviews with moderation, star ratings, and Google rich snippets (Schema.org) support.
+A [Payload CMS v3](https://payloadcms.com) [ecommerce](https://zojewel.com) plugin to add customer reviews with moderation, star ratings, and Google rich snippets (Schema.org) support.
 
 ## Features
 
