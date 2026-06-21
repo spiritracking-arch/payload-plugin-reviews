@@ -166,7 +166,7 @@ const productJsonLd = {
 ```
 
 Test your rich snippets: [Google Rich Results Test](https://search.google.com/test/rich-results)
-
+This article summarizes the functions on: [dev.to](https://dev.to/spiritrackingarch/how-i-built-the-two-missing-payload-cms-v3-plugins-reviews-json-ld-real-production-bugs-18a1)
 ## Plugin Options
 
 | Option | Type | Default | Description |
