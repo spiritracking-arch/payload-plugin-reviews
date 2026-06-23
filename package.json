@@ -1,6 +1,6 @@
 {
   "name": "payload-plugin-reviews",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Payload CMS v3 plugin to add customer reviews with moderation, star ratings, and Google rich snippets support.",
   "main": "dist/index.js",
   "module": "dist/index.js",
