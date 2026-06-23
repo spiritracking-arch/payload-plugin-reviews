@@ -1,6 +1,6 @@
 {
   "name": "payload-plugin-reviews",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A Payload CMS v3 plugin to add customer reviews with moderation, star ratings, and Google rich snippets support.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -26,24 +26,10 @@
     "reviews",
     "ratings",
     "ecommerce",
-    "cms",
-    "seo",
-    "google",
-    "rich-snippets",
-    "moderation",
-    "star-ratings",
-    "nextjs"
+    "cms"
   ],
-  "author": "Camille (spiritracking-arch)",
+  "author": "",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spiritracking-arch/payload-plugin-reviews.git"
-  },
-  "bugs": {
-    "url": "https://github.com/spiritracking-arch/payload-plugin-reviews/issues"
-  },
-  "homepage": "https://github.com/spiritracking-arch/payload-plugin-reviews#readme",
   "peerDependencies": {
     "payload": "^3.0.0"
   },
