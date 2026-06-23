@@ -26,10 +26,24 @@
     "reviews",
     "ratings",
     "ecommerce",
-    "cms"
+    "cms",
+    "seo",
+    "google",
+    "rich-snippets",
+    "moderation",
+    "star-ratings",
+    "nextjs"
   ],
-  "author": "",
+  "author": "Camille (spiritracking-arch)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritracking-arch/payload-plugin-reviews.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spiritracking-arch/payload-plugin-reviews/issues"
+  },
+  "homepage": "https://github.com/spiritracking-arch/payload-plugin-reviews#readme",
   "peerDependencies": {
     "payload": "^3.0.0"
   },
