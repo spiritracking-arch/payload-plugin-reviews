@@ -30,6 +30,14 @@
   ],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritracking-arch/payload-plugin-reviews.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spiritracking-arch/payload-plugin-reviews/issues"
+  },
+  "homepage": "https://github.com/spiritracking-arch/payload-plugin-reviews#readme",
   "peerDependencies": {
     "payload": "^3.0.0"
   },
