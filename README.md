@@ -1,6 +1,10 @@
 # payload-plugin-reviews
 
+[![npm version](https://img.shields.io/npm/v/payload-plugin-reviews.svg)](https://www.npmjs.com/package/payload-plugin-reviews) [![npm downloads](https://img.shields.io/npm/dm/payload-plugin-reviews.svg)](https://www.npmjs.com/package/payload-plugin-reviews) [![GitHub stars](https://img.shields.io/github/stars/spiritracking-arch/payload-plugin-reviews?style=social)](https://github.com/spiritracking-arch/payload-plugin-reviews/stargazers) [![Payload v3](https://img.shields.io/badge/Payload-v3-black.svg)](https://payloadcms.com) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A [Payload CMS v3](https://payloadcms.com) [ecommerce](https://zojewel.com) plugin to add customer reviews with moderation, star ratings, and Google rich snippets (Schema.org) support.
+
+> ⭐ **If this plugin saves you time, [star it on GitHub](https://github.com/spiritracking-arch/payload-plugin-reviews).** It is the main way other Payload developers find it.
 
 ## Features
 
@@ -182,6 +186,17 @@ This article summarizes the functions on: [dev.to](https://dev.to/spiritrackinga
 - **Author email** is protected by field-level access control — never exposed in the public API.
 - **Prices in cents** — if your prices are stored in cents (e.g. `3990` = €39.90), divide by 100 in JSON-LD and frontend display.
 
+## About the author
+
+I'm **Camille Guerineau**. I spent ten years as a jewelry maker and founder of [Loch Ness Paris](https://lochness-paris.com/) before going back to full-stack development. I build Payload CMS shops for real e-commerce, and I publish the pieces that were missing.
+
+- 🧩 Also by me: [`payload-plugin-seo-jsonld`](https://github.com/spiritracking-arch/payload-plugin-seo-jsonld), Schema.org JSON-LD for Product, BreadcrumbList, ItemList, WebSite and Organization
+- ✅ [Verumano](https://lochness-paris.com/verumano/), a verifiable "human-made" label for creators, with an open spec and an npm client ([`verumano`](https://www.npmjs.com/package/verumano))
+- ✍️ Writing on [dev.to](https://dev.to/spiritrackingarch)
+- 💬 Questions, bugs or ideas: [open an issue](https://github.com/spiritracking-arch/payload-plugin-reviews/issues)
+
+Need help with a Payload CMS v3 shop, SEO or rich snippets? Get in touch through [lochness-paris.com](https://lochness-paris.com/).
+
 ## License
 
-MIT
+MIT © [Camille Guerineau](https://github.com/spiritracking-arch)
